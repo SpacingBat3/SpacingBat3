@@ -27,8 +27,10 @@ software projects.
 [<img src="https://gitlab.com/favicon.ico" height=32 alt="GitLab"/>](https://gitlab.com/SpacingBat3 "GitLab")
 [<img src="https://gitlab.archlinux.org/favicon.ico" height=32 alt="Arch Linux"/>](https://gitlab.archlinux.org/SpacingBat3 "Arch Linux (GitLab instance)")
 [<img src="https://gitlab.xfce.org/favicon.ico" height=32 alt="XFCE4"/>](https://gitlab.xfce.org/SpacingBat3 "XFCE4 (GitLab instance)")
+<!-- Not much of an activity, but you might find it as easter-egg if you read this I guess:
 [<img src="https://codeberg.org/favicon.ico" height=32 alt="Codeberg"/>](https://codeberg.org/SpacingBat3 "Codeberg")
-[<img src="https://gitlab.freedesktop.org/favicon.ico" height=32 alt="Codeberg"/>](https://codeberg.org/SpacingBat3 "Freedesktop (GitLab instance)")
+[<img src="https://gitlab.freedesktop.org/favicon.ico" height=32 width=32 alt="Freedesktop"/>](https://gitlab.freedesktop.org/SpacingBat3 "Freedesktop (GitLab instance)")
+-->
 
 </div>
 
