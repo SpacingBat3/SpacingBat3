@@ -15,7 +15,9 @@ software projects.
   or when abstracting code a bit more than what C does is beneficial.
 
 - An experienced TypeScript developer, having unusual skillset like [strongly
-  typed programming](https://github.com/SpacingBat3/lss) or
+  typed programming](https://github.com/SpacingBat3/lss) or frameworkless
+  web-development focused on webpage performance while following modern frontend
+  design principles.
 
 - An engineer mixed in various technologies for simulation and process modeling,
   like FEM, neural networks, optimisation algorithms etc.
