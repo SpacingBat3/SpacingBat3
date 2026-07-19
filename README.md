@@ -106,5 +106,5 @@ The key should be available in [Ubuntu](https://keyserver.ubuntu.com/),
       respond unless you show your affiliation, topic of interest and
       you are being part of company that can legally provide work in Poland.
 
-[Arch Linux]: https://archlinux.org "Yes, \"I use Arch BTW\", this is a bit overused phrase though so probably don't point this out to me this way, I heard it a lot already enough."
+[Arch Linux]: https://archlinux.org "Yes, \"I use Arch BTW\", this is a bit overused phrase though so probably don't point this out to me this way, I've heard it a lot enough already."
 [ALARM]: https://archlinuxarm.org "Arch Linux ARM – still waiting for official Arch Linux on ARM! (arch ports?)"
