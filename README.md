@@ -6,7 +6,7 @@ software projects.
 
 ## 👥️ Who am I?
 
-- A proud Arch Linux administrator of my private homelab.
+- A proud administrator of my private homelab, built upon [Arch Linux] ([ALARM] as well).
 
 - A curious C programmer, trying to bring some freshness into how you can
   program in C and use C in code projects.
@@ -15,9 +15,9 @@ software projects.
   or when abstracting code a bit more than what C does is beneficial.
 
 - An experienced TypeScript developer, having unusual skillset like [strongly
-  typed programming](https://github.com/SpacingBat3/lss) or frameworkless
-  web-development focused on webpage performance while following modern frontend
-  design principles.
+  typed programming](https://github.com/SpacingBat3/lss "See my LSS project for most extreme example of this!")
+  or frameworkless web-development focused on webpage performance while following
+  modern frontend design principles.
 
 - An engineer mixed in various technologies for simulation and process modeling,
   like FEM, neural networks, optimisation algorithms etc.
@@ -105,3 +105,6 @@ The key should be available in [Ubuntu](https://keyserver.ubuntu.com/),
       being not limited to any constrains like AI would be. I might not
       respond unless you show your affiliation, topic of interest and
       you are being part of company that can legally provide work in Poland.
+
+[Arch Linux]: https://archlinux.org "Yes, \"I use Arch BTW\", this is a bit overused phrase though so probably don't point this out to me this way, I heard it a lot already enough."
+[ALARM]: https://archlinuxarm.org "Arch Linux ARM – still waiting for official Arch Linux on ARM! (arch ports?)"
