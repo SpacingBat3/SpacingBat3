@@ -1,3 +1,13 @@
+<div align=right>
+
+<!-- Badges -->
+[![GitRanks PL][badge-gitranks-pl]](https://gitranks.com/profile/SpacingBat3/country "Data source: GitRanks service (for Poland)")
+[![GitRanks Global][badge-gitranks-tier]](https://gitranks.com/profile/SpacingBat3 "Data source: GitRanks service (Global)")
+[![GitHub User's stars][badge-shieldsio-stars]](https://github.com/SpacingBat3 "Data source: GitHub (via Shields.io)")
+[![Profile Views Counter][badge-view-counter]](https://github.com/SpacingBat3 "Data source: Manual counter (image fetches)")
+
+</div>
+
 # 👋️ Hey there!
 
 I am developer known in FOSS as "SpacingBat3", aiming towards creating
@@ -106,5 +116,10 @@ The key should be available in [Ubuntu](https://keyserver.ubuntu.com/),
       respond unless you show your affiliation, topic of interest and
       you are being part of company that can legally provide work in Poland.
 
-[Arch Linux]: https://archlinux.org "Yes, \"I use Arch BTW\", this is a bit overused phrase though so probably don't point this out to me this way, I've heard it a lot enough already."
-[ALARM]: https://archlinuxarm.org "Arch Linux ARM – still waiting for official Arch Linux on ARM! (arch ports?)"
+[Arch Linux]: https://archlinux.org    "Yes, \"I use Arch BTW\", this is a bit overused phrase though so probably don't point this out to me this way, I've heard it a lot enough already."
+[ALARM]:      https://archlinuxarm.org "Arch Linux ARM – still waiting for official Arch Linux on ARM! (arch ports?)"
+
+[badge-gitranks-tier]:   https://gitranks.com/api/badge/v2/SpacingBat3?context=global&type=tier&label=Tier&valueBgColor=%23b76811
+[badge-gitranks-pl]:     https://gitranks.com/api/badge/v2/SpacingBat3?context=country&type=position&label=Place+(Poland)&valueBgColor=%23c22222
+[badge-shieldsio-stars]: https://img.shields.io/github/stars/SpacingBat3?style=flat&labelColor=5c5c5c&label=★+Stars
+[badge-view-counter]:    https://views.igorkowalczyk.dev/api/badge/SpacingBat3?style=classic&format=short&color=4a8392&label=👁+Views
